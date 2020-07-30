@@ -1,4 +1,4 @@
 # Hidden Realm
-Unity MMO with basic features.
-For details, read file hidden-realm-preview-description.pdf.
-C# Scripts are in the hidden-realm/HiddenRealm/Assets/Scripts/ folder.
+Unity MMO with basic features.  
+For details, read file hidden-realm-preview-description.pdf.  
+C# Scripts are in [this folder](https://github.com/zukerr/hidden-realm/tree/master/HiddenRealm/Assets/Scripts).  
