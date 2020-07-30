@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: HungryWildBoar
+  m_EditorClassIdentifier: 
+  level: 7
+  mobClass: 1
+  exp: 61
+  maxHp: 244
+  mobName: Hungry Wild Boar
+  prefab: {fileID: 7375970832164788246, guid: ef781ba335feffa47bc3e56dd2251312, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 6112b4a64c064514b820622516180547, type: 2}
+  - {fileID: 11400000, guid: e38e0ec655f4e0046bb076a899542637, type: 2}
+  - {fileID: 11400000, guid: b60095ec340c9044b9a376439b9f8cde, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.15
+  yangLower: 21
+  yangHigher: 35

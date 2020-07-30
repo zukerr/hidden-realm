@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: WhiteOathArcher
+  m_EditorClassIdentifier: 
+  level: 20
+  mobClass: 1
+  exp: 405
+  maxHp: 1620
+  mobName: White Oath Archer
+  prefab: {fileID: 3752779982451895692, guid: 0149c399fbcdc14459086fa7dbbff1bd, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: d9a10e5ecdcaea642b849e6ea3ca759f, type: 2}
+  - {fileID: 11400000, guid: 1f5800451a6753641be7dedc4056f23c, type: 2}
+  - {fileID: 11400000, guid: 78c11a2d7394f554ea80e1799de45f1b, type: 2}
+  - {fileID: 11400000, guid: 08eb8f910ebc0834b8d2c45123c496f8, type: 2}
+  - {fileID: 11400000, guid: e77cba4c98f982048bf28f0b99a93753, type: 2}
+  - {fileID: 11400000, guid: 2420596df52e85c41be8a8f36bf59111, type: 2}
+  - {fileID: 11400000, guid: 059b31dc44583af41aae9e8aeb71af58, type: 2}
+  - {fileID: 11400000, guid: f5b53980b9d18fa4db2d9d51f431757f, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.15
+  yangLower: 60
+  yangHigher: 100

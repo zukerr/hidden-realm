@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: Wolf
+  m_EditorClassIdentifier: 
+  level: 3
+  mobClass: 1
+  exp: 39
+  maxHp: 156
+  mobName: Wolf
+  prefab: {fileID: 4107339719806904818, guid: e527ed914fa345f409281fc9ed7a6380, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: ea032d1d81be8694b8c1a903f4bed50d, type: 2}
+  - {fileID: 11400000, guid: e38e0ec655f4e0046bb076a899542637, type: 2}
+  - {fileID: 11400000, guid: ce6c569aee1a32b4d9d49f773f776a4d, type: 2}
+  - {fileID: 11400000, guid: c9cb4d521f9d0d2458d1e040cef836a6, type: 2}
+  - {fileID: 11400000, guid: 6d8738cc95287c04085c013ce939a511, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.15
+  - 0.15
+  yangLower: 9
+  yangHigher: 15

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 264bd3bdf68d6fb4bbc8d3a9e5547402, type: 3}
+  m_Name: DragonPlateArmor
+  m_EditorClassIdentifier: 
+  name: Dragon Plate Armor
+  id: 205
+  inventoryIcon: {fileID: 21300000, guid: 7c4d242200e822d4caf30222e12bc29c, type: 3}
+  equipable: 1
+  sellPrice: 2100
+  levelRequirement: 42
+  inventorySlots: 2
+  eqPiece: 1
+  defenseValues: 370000003d00000043000000490000004f000000550000005b00000061000000670000006d000000
+  yangUpgradeCost: 00000000e8030000d0070000a00f0000401f0000c8320000204e0000409c000070110100c0d40100
+  sockets: 2

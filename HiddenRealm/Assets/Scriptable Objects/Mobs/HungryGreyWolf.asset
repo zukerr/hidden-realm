@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: HungryGreyWolf
+  m_EditorClassIdentifier: 
+  level: 13
+  mobClass: 1
+  exp: 111
+  maxHp: 444
+  mobName: Hungry Grey Wolf
+  prefab: {fileID: 1976929433858707, guid: 874bf1451be7ea944876342a02fb0c33, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: f6a195f8a0a622a46bef7fb24e3275e9, type: 2}
+  lootChances:
+  - 0.15
+  yangLower: 39
+  yangHigher: 65

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
+  m_Name: WarScythe
+  m_EditorClassIdentifier: 
+  name: War Scythe
+  id: 7
+  inventoryIcon: {fileID: 21300000, guid: 85c29f134ba537846881b134bc34d978, type: 3}
+  equipable: 1
+  sellPrice: 3000
+  levelRequirement: 25
+  inventorySlots: 3
+  eqPiece: 0
+  twoHanded: 1
+  attackValuesLower: 340000003a00000040000000460000004c000000540000005d00000067000000720000007e000000
+  attackValuesHigher: 560000005c00000062000000680000006e000000760000007f0000008900000094000000a0000000
+  yangUpgradeCost: 00000000e8030000d0070000a00f0000401f0000c8320000204e0000409c000070110100c0d40100
+  sockets: 2

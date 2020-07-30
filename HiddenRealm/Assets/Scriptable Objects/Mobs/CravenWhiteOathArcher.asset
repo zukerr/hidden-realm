@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: CravenWhiteOathArcher
+  m_EditorClassIdentifier: 
+  level: 20
+  mobClass: 2
+  exp: 284
+  maxHp: 1136
+  mobName: Craven White Oath Archer
+  prefab: {fileID: 790984216438470314, guid: ce6873fe2fe0597458431446643bab03, type: 3}
+  lootTable: []
+  lootChances: []
+  yangLower: 60
+  yangHigher: 100

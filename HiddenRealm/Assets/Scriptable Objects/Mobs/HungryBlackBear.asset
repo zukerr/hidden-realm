@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: HungryBlackBear
+  m_EditorClassIdentifier: 
+  level: 19
+  mobClass: 1
+  exp: 249
+  maxHp: 996
+  mobName: Hungry Black Bear
+  prefab: {fileID: 391915047052122342, guid: efda2a3d83b865c4bb915d6e8730b452, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 4f4bd61e1c636f648ae52e7194c77844, type: 2}
+  - {fileID: 11400000, guid: bd6312cdd01d3954292709a857acdc65, type: 2}
+  - {fileID: 11400000, guid: d0a06fe0828d94649998b801dd133e0a, type: 2}
+  - {fileID: 11400000, guid: 35639c22fa38ea340bb105d37aede108, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.15
+  - 0.15
+  yangLower: 57
+  yangHigher: 95

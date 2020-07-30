@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
+  m_Name: BattlePitchfork
+  m_EditorClassIdentifier: 
+  name: Battle Pitchfork
+  id: 16
+  inventoryIcon: {fileID: 21300000, guid: 66056fbbe394fcd44864cd0245b6fc0d, type: 3}
+  equipable: 1
+  sellPrice: 1600
+  levelRequirement: 32
+  inventorySlots: 3
+  eqPiece: 0
+  twoHanded: 1
+  attackValuesLower: 3a00000040000000460000004c000000520000005a000000630000006d0000007800000084000000
+  attackValuesHigher: 580000005e000000640000006a0000007000000078000000810000008b00000096000000a2000000
+  yangUpgradeCost: 00000000e8030000d0070000a00f0000401f0000c8320000204e0000409c000070110100c0d40100
+  sockets: 2

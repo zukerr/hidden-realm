@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: CravenWhiteOathSoldier
+  m_EditorClassIdentifier: 
+  level: 18
+  mobClass: 1
+  exp: 256
+  maxHp: 1024
+  mobName: Craven White Oath Soldier
+  prefab: {fileID: 1079744186226787099, guid: e25fe81f75513f84b9b0efe93099c4ed, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: ce17818f4ec515749888e4a4dd647472, type: 2}
+  lootChances:
+  - 0.1
+  yangLower: 54
+  yangHigher: 90

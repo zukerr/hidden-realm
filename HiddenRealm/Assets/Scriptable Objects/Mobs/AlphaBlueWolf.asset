@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: AlphaBlueWolf
+  m_EditorClassIdentifier: 
+  level: 9
+  mobClass: 1
+  exp: 111
+  maxHp: 444
+  mobName: Alpha Blue Wolf
+  prefab: {fileID: 5271373781575824300, guid: 5e25222ed7e302b49a55e441350862fa, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: ea032d1d81be8694b8c1a903f4bed50d, type: 2}
+  - {fileID: 11400000, guid: c81dff206374fef4290f82994b537cd2, type: 2}
+  - {fileID: 11400000, guid: e77cba4c98f982048bf28f0b99a93753, type: 2}
+  - {fileID: 11400000, guid: 6d8738cc95287c04085c013ce939a511, type: 2}
+  - {fileID: 11400000, guid: c9cb4d521f9d0d2458d1e040cef836a6, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.15
+  - 0.15
+  yangLower: 27
+  yangHigher: 45

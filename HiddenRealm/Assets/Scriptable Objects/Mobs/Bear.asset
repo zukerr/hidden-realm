@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: Bear
+  m_EditorClassIdentifier: 
+  level: 12
+  mobClass: 1
+  exp: 147
+  maxHp: 588
+  mobName: Bear
+  prefab: {fileID: 4230750364170610005, guid: 6c10fb22fb47a39498f0f545f937f37b, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 6112b4a64c064514b820622516180547, type: 2}
+  - {fileID: 11400000, guid: cee592768ea47964faf50f737b615cda, type: 2}
+  - {fileID: 11400000, guid: 4f4bd61e1c636f648ae52e7194c77844, type: 2}
+  - {fileID: 11400000, guid: b4d516c0e906d3342a438cc102169c75, type: 2}
+  - {fileID: 11400000, guid: bd6312cdd01d3954292709a857acdc65, type: 2}
+  - {fileID: 11400000, guid: e77cba4c98f982048bf28f0b99a93753, type: 2}
+  - {fileID: 11400000, guid: 8eb3d42f5507a2c478bcf138f6c34106, type: 2}
+  - {fileID: 11400000, guid: d0a06fe0828d94649998b801dd133e0a, type: 2}
+  - {fileID: 11400000, guid: 1b42efdf76f02ae48b3a6c6f4239581f, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.08
+  - 0.08
+  - 0.05
+  - 0.1
+  - 0.1
+  yangLower: 36
+  yangHigher: 60

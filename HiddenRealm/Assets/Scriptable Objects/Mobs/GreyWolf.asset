@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: GreyWolf
+  m_EditorClassIdentifier: 
+  level: 13
+  mobClass: 1
+  exp: 159
+  maxHp: 636
+  mobName: Grey Wolf
+  prefab: {fileID: 1835532019742698379, guid: f2193b631ecea3047b8ba0c04736ad5a, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 78c11a2d7394f554ea80e1799de45f1b, type: 2}
+  - {fileID: 11400000, guid: 0f79697986976e84dab6a7facf52bdae, type: 2}
+  - {fileID: 11400000, guid: 584ca586b598d3c4bad1e558ddc48f61, type: 2}
+  - {fileID: 11400000, guid: ea032d1d81be8694b8c1a903f4bed50d, type: 2}
+  - {fileID: 11400000, guid: f7fd7f37e0d46404fbe0acb443270edf, type: 2}
+  - {fileID: 11400000, guid: bd6312cdd01d3954292709a857acdc65, type: 2}
+  - {fileID: 11400000, guid: 6d8738cc95287c04085c013ce939a511, type: 2}
+  - {fileID: 11400000, guid: c9cb4d521f9d0d2458d1e040cef836a6, type: 2}
+  - {fileID: 11400000, guid: f6a195f8a0a622a46bef7fb24e3275e9, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  yangLower: 39
+  yangHigher: 65

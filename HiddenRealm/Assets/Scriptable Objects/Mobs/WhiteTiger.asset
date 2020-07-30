@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: WhiteTiger
+  m_EditorClassIdentifier: 
+  level: 24
+  mobClass: 2
+  exp: 582
+  maxHp: 2328
+  mobName: White Tiger
+  prefab: {fileID: 2464939539240371142, guid: 607fef3b744db974f804b396c38e828d, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: d9a10e5ecdcaea642b849e6ea3ca759f, type: 2}
+  - {fileID: 11400000, guid: 78c11a2d7394f554ea80e1799de45f1b, type: 2}
+  - {fileID: 11400000, guid: f7fd7f37e0d46404fbe0acb443270edf, type: 2}
+  - {fileID: 11400000, guid: 4f4bd61e1c636f648ae52e7194c77844, type: 2}
+  - {fileID: 11400000, guid: 2420596df52e85c41be8a8f36bf59111, type: 2}
+  - {fileID: 11400000, guid: 2d0dca21d0d13cb4a8311914b23f2338, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.15
+  yangLower: 72
+  yangHigher: 120

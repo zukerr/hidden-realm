@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: WhiteOathSoldier
+  m_EditorClassIdentifier: 
+  level: 18
+  mobClass: 1
+  exp: 365
+  maxHp: 1460
+  mobName: White Oath Soldier
+  prefab: {fileID: 9112927760949963572, guid: c876a30ef29d7844a888c7b58ba80868, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 1f5800451a6753641be7dedc4056f23c, type: 2}
+  - {fileID: 11400000, guid: dc53aec346b00d841b3e9573e30908e5, type: 2}
+  - {fileID: 11400000, guid: cee592768ea47964faf50f737b615cda, type: 2}
+  - {fileID: 11400000, guid: 584ca586b598d3c4bad1e558ddc48f61, type: 2}
+  - {fileID: 11400000, guid: f7fd7f37e0d46404fbe0acb443270edf, type: 2}
+  - {fileID: 11400000, guid: 4f4bd61e1c636f648ae52e7194c77844, type: 2}
+  - {fileID: 11400000, guid: e38e0ec655f4e0046bb076a899542637, type: 2}
+  - {fileID: 11400000, guid: c81dff206374fef4290f82994b537cd2, type: 2}
+  - {fileID: 11400000, guid: b4d516c0e906d3342a438cc102169c75, type: 2}
+  - {fileID: 11400000, guid: bd6312cdd01d3954292709a857acdc65, type: 2}
+  - {fileID: 11400000, guid: 08eb8f910ebc0834b8d2c45123c496f8, type: 2}
+  - {fileID: 11400000, guid: 8eb3d42f5507a2c478bcf138f6c34106, type: 2}
+  - {fileID: 11400000, guid: 991cd3b9e858f5547b3f112068ec00af, type: 2}
+  - {fileID: 11400000, guid: ce17818f4ec515749888e4a4dd647472, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  yangLower: 54
+  yangHigher: 90

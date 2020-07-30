@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c6708be9ac79e1438c1c2b13e89c765, type: 3}
+  m_Name: RedPotionM20
+  m_EditorClassIdentifier: 
+  name: Red Potion (M)
+  id: 500
+  inventoryIcon: {fileID: 21300000, guid: d7444fae65a457744b7d12c3be02de49, type: 3}
+  equipable: 0
+  sellPrice: 16
+  quantity: 20
+  healthAmount: 300
+  cost: 500

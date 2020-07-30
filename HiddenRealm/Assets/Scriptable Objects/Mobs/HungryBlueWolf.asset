@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: HungryBlueWolf
+  m_EditorClassIdentifier: 
+  level: 6
+  mobClass: 1
+  exp: 53
+  maxHp: 212
+  mobName: Hungry Blue Wolf
+  prefab: {fileID: 2411051216420257200, guid: e17a0a5153acdf1448f59bc9d9c418df, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 6112b4a64c064514b820622516180547, type: 2}
+  - {fileID: 11400000, guid: cee592768ea47964faf50f737b615cda, type: 2}
+  - {fileID: 11400000, guid: ca93cab68668bbc45803ca598dcfdaf2, type: 2}
+  - {fileID: 11400000, guid: ea032d1d81be8694b8c1a903f4bed50d, type: 2}
+  - {fileID: 11400000, guid: e77cba4c98f982048bf28f0b99a93753, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  yangLower: 18
+  yangHigher: 30

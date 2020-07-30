@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fd061095efcad47915307539e14a38, type: 3}
+  m_Name: BattleShield
+  m_EditorClassIdentifier: 
+  name: Battle Shield
+  id: 300
+  inventoryIcon: {fileID: 21300000, guid: 874039e01f23a6243a5fcc0a7fcc75b9, type: 3}
+  equipable: 1
+  sellPrice: 200
+  levelRequirement: 1
+  inventorySlots: 1
+  eqPiece: 3
+  defenseValues: 03000000090000000f000000150000001b00000021000000270000002d0000003300000039000000
+  yangUpgradeCost: 0000000058020000b0040000c40900008813000010270000204e000030750000c8af0000f8240100

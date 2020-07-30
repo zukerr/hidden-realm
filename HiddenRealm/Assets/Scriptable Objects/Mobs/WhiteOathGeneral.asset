@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: WhiteOathGeneral
+  m_EditorClassIdentifier: 
+  level: 25
+  mobClass: 2
+  exp: 848
+  maxHp: 3392
+  mobName: White Oath General
+  prefab: {fileID: 5519581999833412704, guid: 4e9504f747a88444faf707036fadce43, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 4e28924be63949148882857b80fab7d0, type: 2}
+  - {fileID: 11400000, guid: 8ac08ee76b5c6e846a63cc0f3ffd2213, type: 2}
+  lootChances:
+  - 0.15
+  - 0.15
+  yangLower: 75
+  yangHigher: 125

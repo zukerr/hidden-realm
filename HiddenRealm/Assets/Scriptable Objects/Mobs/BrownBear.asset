@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b083e1a689284896a1850e06f46af, type: 3}
+  m_Name: BrownBear
+  m_EditorClassIdentifier: 
+  level: 21
+  mobClass: 2
+  exp: 510
+  maxHp: 2040
+  mobName: Brown Bear
+  prefab: {fileID: 3326207017675839804, guid: 196929926749d2145ba2b79e39a1229c, type: 3}
+  lootTable:
+  - {fileID: 11400000, guid: 6112b4a64c064514b820622516180547, type: 2}
+  - {fileID: 11400000, guid: ca93cab68668bbc45803ca598dcfdaf2, type: 2}
+  - {fileID: 11400000, guid: ea032d1d81be8694b8c1a903f4bed50d, type: 2}
+  - {fileID: 11400000, guid: f7fd7f37e0d46404fbe0acb443270edf, type: 2}
+  - {fileID: 11400000, guid: 512d12b19a6181346881aa010bef239b, type: 2}
+  lootChances:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.08
+  - 0.1
+  yangLower: 63
+  yangHigher: 105
