@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38f89966c58e3042b689073451ae3d0, type: 3}
   m_Name: WhiteHairband
   m_EditorClassIdentifier: 
-  name: White Hairband
+  itemName: White Hairband
   id: 105
   inventoryIcon: {fileID: 21300000, guid: 6f6456ad3bba2ba438b4ffb0265839c4, type: 3}
   equipable: 0

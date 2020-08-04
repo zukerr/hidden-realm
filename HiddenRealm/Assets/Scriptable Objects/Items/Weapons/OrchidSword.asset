@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: OrchidSword
   m_EditorClassIdentifier: 
-  name: Orchid Sword
+  itemName: Orchid Sword
   id: 11
   inventoryIcon: {fileID: 21300000, guid: f6b5670533166ce45bf25c0e7d7192f5, type: 3}
   equipable: 1

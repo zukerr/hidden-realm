@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: BarbarianSword
   m_EditorClassIdentifier: 
-  name: Barbarian Sword
+  itemName: Barbarian Sword
   id: 17
   inventoryIcon: {fileID: 21300000, guid: 63a35a19a2676e544a57061e31756e50, type: 3}
   equipable: 1

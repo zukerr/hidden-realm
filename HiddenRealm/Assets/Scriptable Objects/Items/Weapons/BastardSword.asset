@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: BastardSword
   m_EditorClassIdentifier: 
-  name: Bastard Sword
+  itemName: Bastard Sword
   id: 4
   inventoryIcon: {fileID: 21300000, guid: a96fb960069ecf54d9a53a49ee1c29f0, type: 3}
   equipable: 1

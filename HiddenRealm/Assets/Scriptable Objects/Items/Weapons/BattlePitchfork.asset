@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: BattlePitchfork
   m_EditorClassIdentifier: 
-  name: Battle Pitchfork
+  itemName: Battle Pitchfork
   id: 16
   inventoryIcon: {fileID: 21300000, guid: 66056fbbe394fcd44864cd0245b6fc0d, type: 3}
   equipable: 1

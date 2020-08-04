@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38f89966c58e3042b689073451ae3d0, type: 3}
   m_Name: Ornament
   m_EditorClassIdentifier: 
-  name: Ornament
+  itemName: Ornament
   id: 112
   inventoryIcon: {fileID: 21300000, guid: 8ac78fb3c4d89ed4da932dec92fe9e3a, type: 3}
   equipable: 0

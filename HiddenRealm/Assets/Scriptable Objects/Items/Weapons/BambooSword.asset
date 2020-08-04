@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: BambooSword
   m_EditorClassIdentifier: 
-  name: Bamboo Sword
+  itemName: Bamboo Sword
   id: 2
   inventoryIcon: {fileID: 21300000, guid: c84b43a4fe115f343b224323a51313c0, type: 3}
   equipable: 1

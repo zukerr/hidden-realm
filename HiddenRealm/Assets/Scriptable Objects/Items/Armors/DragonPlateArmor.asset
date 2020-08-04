@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 264bd3bdf68d6fb4bbc8d3a9e5547402, type: 3}
   m_Name: DragonPlateArmor
   m_EditorClassIdentifier: 
-  name: Dragon Plate Armor
+  itemName: Dragon Plate Armor
   id: 205
   inventoryIcon: {fileID: 21300000, guid: 7c4d242200e822d4caf30222e12bc29c, type: 3}
   equipable: 1

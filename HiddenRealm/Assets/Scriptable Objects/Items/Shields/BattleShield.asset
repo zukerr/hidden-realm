@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79fd061095efcad47915307539e14a38, type: 3}
   m_Name: BattleShield
   m_EditorClassIdentifier: 
-  name: Battle Shield
+  itemName: Battle Shield
   id: 300
   inventoryIcon: {fileID: 21300000, guid: 874039e01f23a6243a5fcc0a7fcc75b9, type: 3}
   equipable: 1

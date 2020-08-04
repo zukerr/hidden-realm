@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: SilverSword
   m_EditorClassIdentifier: 
-  name: Silver Sword
+  itemName: Silver Sword
   id: 3
   inventoryIcon: {fileID: 21300000, guid: f9b124708192ad94886bf3656ed899a9, type: 3}
   equipable: 1

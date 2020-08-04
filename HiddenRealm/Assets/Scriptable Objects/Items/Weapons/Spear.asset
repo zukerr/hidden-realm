@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: Spear
   m_EditorClassIdentifier: 
-  name: Spear
+  itemName: Spear
   id: 5
   inventoryIcon: {fileID: 21300000, guid: 92bc51776affbfb4494eb9b0baaf73a8, type: 3}
   equipable: 1

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: Glaive
   m_EditorClassIdentifier: 
-  name: Glaive
+  itemName: Glaive
   id: 15
   inventoryIcon: {fileID: 21300000, guid: e56cfd12f68bfb544bdb216c42d2404b, type: 3}
   equipable: 1

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 264bd3bdf68d6fb4bbc8d3a9e5547402, type: 3}
   m_Name: LethalPlateArmor
   m_EditorClassIdentifier: 
-  name: Lethal Plate Armor
+  itemName: Lethal Plate Armor
   id: 204
   inventoryIcon: {fileID: 21300000, guid: 32d8ecb53b315c5468779ee92d5a783b, type: 3}
   equipable: 1

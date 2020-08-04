@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 264bd3bdf68d6fb4bbc8d3a9e5547402, type: 3}
   m_Name: IronPlateArmor
   m_EditorClassIdentifier: 
-  name: Iron Plate Armor
+  itemName: Iron Plate Armor
   id: 203
   inventoryIcon: {fileID: 21300000, guid: ccedd334ede47ba409ae7edd51003444, type: 3}
   equipable: 1

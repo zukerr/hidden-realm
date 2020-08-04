@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38f89966c58e3042b689073451ae3d0, type: 3}
   m_Name: GoldBar
   m_EditorClassIdentifier: 
-  name: Gold Bar
+  itemName: Gold Bar
   id: 115
   inventoryIcon: {fileID: 21300000, guid: 9fc597c51f8a9cb45b0af4ea57040f67, type: 3}
   equipable: 0

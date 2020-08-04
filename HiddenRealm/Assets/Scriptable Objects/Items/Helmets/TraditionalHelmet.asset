@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e6872950dbe1b64a8521a52ee5ea89e, type: 3}
   m_Name: TraditionalHelmet
   m_EditorClassIdentifier: 
-  name: Traditional Helmet
+  itemName: Traditional Helmet
   id: 400
   inventoryIcon: {fileID: 21300000, guid: 995585f87c3300547bdc5e1463e1155b, type: 3}
   equipable: 1

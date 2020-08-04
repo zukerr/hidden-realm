@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: GuillotineBlade
   m_EditorClassIdentifier: 
-  name: Guillotine Blade
+  itemName: Guillotine Blade
   id: 10
   inventoryIcon: {fileID: 21300000, guid: 34ec597e6dfdac5478c12726d6bb2ab2, type: 3}
   equipable: 1

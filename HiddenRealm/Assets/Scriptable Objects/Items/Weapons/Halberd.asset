@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: Halberd
   m_EditorClassIdentifier: 
-  name: Halberd
+  itemName: Halberd
   id: 8
   inventoryIcon: {fileID: 21300000, guid: d0694b5b5c1c7c0428fefbcd19ed1b9b, type: 3}
   equipable: 1

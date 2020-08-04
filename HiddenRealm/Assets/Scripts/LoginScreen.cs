@@ -236,7 +236,7 @@ public class LoginScreen : MonoBehaviour
 
     public void DeveloperButton()
     {
-        login = "ZukerGM";
+        login = "Tester123";
         plainPw = "passwd123";
 
         loggedIn = true;

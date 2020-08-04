@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: BroadSword
   m_EditorClassIdentifier: 
-  name: Broad Sword
+  itemName: Broad Sword
   id: 9
   inventoryIcon: {fileID: 21300000, guid: d057b3b53bebc624482205774cf61a78, type: 3}
   equipable: 1

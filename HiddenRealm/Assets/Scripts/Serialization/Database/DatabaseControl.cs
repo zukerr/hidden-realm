@@ -8,13 +8,24 @@ using Mirror;
 
 public class DatabaseControl : MonoBehaviour
 {
+    [SerializeField]
+    private bool singlePlayerDevBuild = false;
+
     private string connectionString;
 
     // Start is called before the first frame update
     void Start()
     {
-        //actual server path
-        connectionString = "URI=file:" + "/server/database/char_database.db";
+        if(!singlePlayerDevBuild)
+        {
+            //actual server path
+            connectionString = "URI=file:" + "/server/database/char_database.db";
+        }
+        else
+        {
+            connectionString = "URI=file:" + Application.dataPath + "/../Database/char_database.db"; //Path to database
+            Debug.Log(connectionString);
+        }
     }
 
     private string QueryReady(int inpt)

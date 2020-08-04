@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: LongSword
   m_EditorClassIdentifier: 
-  name: Long Sword
+  itemName: Long Sword
   id: 1
   inventoryIcon: {fileID: 21300000, guid: 88ad695e20cf1be48ad831245066cc37, type: 3}
   equipable: 1

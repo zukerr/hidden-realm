@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38f89966c58e3042b689073451ae3d0, type: 3}
   m_Name: TigerHide
   m_EditorClassIdentifier: 
-  name: Tiger Hide
+  itemName: Tiger Hide
   id: 111
   inventoryIcon: {fileID: 21300000, guid: c58dca64e05144542bc3779fe01e767f, type: 3}
   equipable: 0

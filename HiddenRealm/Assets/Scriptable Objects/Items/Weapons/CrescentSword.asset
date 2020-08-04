@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977b27ec2c8e7a448911339d08cd6598, type: 3}
   m_Name: CrescentSword
   m_EditorClassIdentifier: 
-  name: Crescent Sword
+  itemName: Crescent Sword
   id: 12
   inventoryIcon: {fileID: 21300000, guid: 99589930fa7ecce4488fc8c738cb0966, type: 3}
   equipable: 1
